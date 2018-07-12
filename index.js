@@ -8,13 +8,13 @@ function scuberGreetingForFeet (feet) {
   }
 }
 
-function ternaryCheckCity(city) {
-  if (city == 'NYC') {
-    return "Ok, sounds good.";
-  } else {
-    return "No go.";
-  }
-}
+// function ternaryCheckCity(city) {
+//   if (city == 'NYC') {
+//     return "Ok, sounds good.";
+//   } else {
+//     return "No go.";
+//   }
+// }
 // 
 // function switchOnCharmFromTip(charm) {
 //   switch (charm) {
@@ -29,4 +29,4 @@ function ternaryCheckCity(city) {
 //       break;
 //     }
 //   }
-} 
+// } 
